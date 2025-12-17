@@ -286,12 +286,20 @@ This project is created for educational purposes as part of the Object-Oriented 
 
 ## 👨‍💻 Team
 
-**Kelompok 2 - PBO Semester 5**
+**Kelompok Manyung - PBO Semester 5**
 
-- Project Lead & Developer
-- Database Architect
-- UI/UX Designer
-- Quality Assurance
+### Ketua Tim
+**Sulthonika Mahfudz Al Mujahidin** - 1202230023
+
+### Anggota Tim
+- **Nur Alifia Rustan** - 1202230008
+- **Teuku Ismail Syuhada** - 1202230036
+- **Muhammad Dwiky Yanuarezza** - 1202230031
+- **Davinsyah Putra Antoro** - 1202230054
+- **Muhammad Fajar Shodiq** - 1202230045
+
+### Dosen Pembimbing
+**Yohanes Setiawan, S.Si., M.Kom.**
 
 ---
 
@@ -305,10 +313,8 @@ For questions or support:
 
 ## 🙏 Acknowledgments
 
-- **Dosen PBO** - Guidance and mentorship
-- **Jakarta EE Community** - Framework documentation
-- **MySQL** - Database management system
-- **Apache Tomcat** - Application server
+- **Yohanes Setiawan, S.Si., M.Kom.** - Dosen PBO yang memberikan bimbingan dan arahan
+- **Telkom University** - Fasilitas dan dukungan pembelajaran
 
 ---
 
