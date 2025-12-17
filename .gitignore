@@ -1,0 +1,89 @@
+# ============================================================
+# MANYUNG PROJECT - GIT IGNORE
+# ============================================================
+# Java Build artifacts
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# IDE - NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+build/
+nb-configuration.xml
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+.metadata
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# IDE - VS Code
+.vscode/
+*.code-workspace
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Database
+*.db
+*.sqlite
+
+# Environment
+.env
+.env.local
+
+# Package Files
+node_modules/
+package-lock.json
+
+# Backup files (don't push old SQL to Git)
+*_backup.sql
+*_old.sql
+
+# Keep only final SQL
+# manyung_final.sql will be tracked
+
+# Images upload folder (optional - uncomment if too large)
+# Manyung/src/main/webapp/images_device/
+
+# ============================================================
+# END OF GITIGNORE
+# ============================================================
